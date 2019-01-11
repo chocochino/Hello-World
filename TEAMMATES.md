@@ -30,3 +30,9 @@ List your teammates here!
 - Calvindo Chandra (01082170037)
 - Ferinzhy Halik (01082170035)
 
+## Team 05:
+- Angellica (01082170031)
+- Ariel Dimitri Alejandro (01082170032)
+- Kayleen Priscilia (01082170009)
+- Raysa Gohtami (01082170033)
+- Dave Marcelino Joshua Rumengan (01082170043)
