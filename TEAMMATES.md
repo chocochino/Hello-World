@@ -23,7 +23,7 @@ List your teammates here!
 - David Imannuel Kase 01082170024
 - Madeleine Jose Josodipuro 00000011802
 
-## Team 04:
+## Team 04 (Instagram):
 - Herbie Ewaldo Sinadia (01082170022)
 - David Kurniawan Koswari (01082170028)
 - Louis Alvaro (01082170019)
@@ -43,3 +43,10 @@ List your teammates here!
 - Johny Huang - 01082170004
 - Leon Chrisdion - 01082170013
 - Sutedja - 01082170006
+
+## Team 07:
+- Klemens Wiyanto (01082170018)
+- Natalio Giovano (01082170023)
+- Calvin Joe Dennedy (01082170036)
+- Jacky Siek (01082170040)
+- Nadya Alimin (01082170020)
