@@ -2,21 +2,21 @@
 
 List your teammates here!
 
-## Team 01:
+## Team 01 (Money manager):
 - Liang Cai - 01082170044  
 - Matius Ebenhaezer - 01082170012  
 - Noach Nathanael Tjahjadi - 01082170008  
 - Sebastian Aldi - 01082170015  
 - Winston Renatan - 01082170030
 
-## Team 02:
+## Team 02 (Clock):
 - Alessandro Luiz Kartika [01082170029]
 - Denny Raymond [01082170017]
 - Eugene Sebastian [01082170027]
 - Farrell Nathaniel [01082170002]
 - Grand Marcell [01082170016]
 
-## Team 03:
+## Team 03 (Mobile banking):
 - Adalbert Mayhard Tiwa 01082170010
 - Alexandro Mikha 01082170007
 - Clao Panson 01082170005
@@ -36,3 +36,10 @@ List your teammates here!
 - Kayleen Priscilia (01082170009)
 - Raysa Gohtami (01082170033)
 - Dave Marcelino Joshua Rumengan (01082170043)
+
+## Team 06 (Cookpad):
+- Nicholas - 01082170001
+- Nicholas Chen - 01082170021
+- Johny Huang - 01082170004
+- Leon Chrisdion - 01082170013
+- Sutedja - 01082170006
